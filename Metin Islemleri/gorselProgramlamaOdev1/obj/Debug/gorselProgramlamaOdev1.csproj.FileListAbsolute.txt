@@ -1,0 +1,10 @@
+C:\Users\osman\source\repos\gorselProgramlamaOdev1\gorselProgramlamaOdev1\bin\Debug\gorselProgramlamaOdev1.exe.config
+C:\Users\osman\source\repos\gorselProgramlamaOdev1\gorselProgramlamaOdev1\bin\Debug\gorselProgramlamaOdev1.exe
+C:\Users\osman\source\repos\gorselProgramlamaOdev1\gorselProgramlamaOdev1\bin\Debug\gorselProgramlamaOdev1.pdb
+C:\Users\osman\source\repos\gorselProgramlamaOdev1\gorselProgramlamaOdev1\obj\Debug\gorselProgramlamaOdev1.csprojAssemblyReference.cache
+C:\Users\osman\source\repos\gorselProgramlamaOdev1\gorselProgramlamaOdev1\obj\Debug\gorselProgramlamaOdev1.Form1.resources
+C:\Users\osman\source\repos\gorselProgramlamaOdev1\gorselProgramlamaOdev1\obj\Debug\gorselProgramlamaOdev1.Properties.Resources.resources
+C:\Users\osman\source\repos\gorselProgramlamaOdev1\gorselProgramlamaOdev1\obj\Debug\gorselProgramlamaOdev1.csproj.GenerateResource.cache
+C:\Users\osman\source\repos\gorselProgramlamaOdev1\gorselProgramlamaOdev1\obj\Debug\gorselProgramlamaOdev1.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\gorselProgramlamaOdev1\gorselProgramlamaOdev1\obj\Debug\gorselProgramlamaOdev1.exe
+C:\Users\osman\source\repos\gorselProgramlamaOdev1\gorselProgramlamaOdev1\obj\Debug\gorselProgramlamaOdev1.pdb
