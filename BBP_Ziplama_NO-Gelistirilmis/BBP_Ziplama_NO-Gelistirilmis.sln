@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBP_Ziplama_NO-Gelistirilmis", "BBP_Ziplama_NO\BBP_Ziplama_NO-Gelistirilmis.csproj", "{A565F942-5438-44AA-9DC6-5DF9CC1A81EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A565F942-5438-44AA-9DC6-5DF9CC1A81EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A565F942-5438-44AA-9DC6-5DF9CC1A81EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A565F942-5438-44AA-9DC6-5DF9CC1A81EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A565F942-5438-44AA-9DC6-5DF9CC1A81EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF2D0E5B-2C39-49D8-9CBD-CA468742B7CF}
+	EndGlobalSection
+EndGlobal

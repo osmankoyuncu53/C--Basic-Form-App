@@ -1,0 +1,20 @@
+C:\Users\akteke\source\repos\BBP_Ziplama_NO\BBP_Ziplama_NO\bin\Debug\BBP_Ziplama_NO.exe.config
+C:\Users\akteke\source\repos\BBP_Ziplama_NO\BBP_Ziplama_NO\bin\Debug\BBP_Ziplama_NO.exe
+C:\Users\akteke\source\repos\BBP_Ziplama_NO\BBP_Ziplama_NO\bin\Debug\BBP_Ziplama_NO.pdb
+C:\Users\akteke\source\repos\BBP_Ziplama_NO\BBP_Ziplama_NO\obj\Debug\BBP_Ziplama_NO.csprojAssemblyReference.cache
+C:\Users\akteke\source\repos\BBP_Ziplama_NO\BBP_Ziplama_NO\obj\Debug\BBP_Ziplama_NO.Form1.resources
+C:\Users\akteke\source\repos\BBP_Ziplama_NO\BBP_Ziplama_NO\obj\Debug\BBP_Ziplama_NO.Properties.Resources.resources
+C:\Users\akteke\source\repos\BBP_Ziplama_NO\BBP_Ziplama_NO\obj\Debug\BBP_Ziplama_NO.csproj.GenerateResource.cache
+C:\Users\akteke\source\repos\BBP_Ziplama_NO\BBP_Ziplama_NO\obj\Debug\BBP_Ziplama_NO.csproj.CoreCompileInputs.cache
+C:\Users\akteke\source\repos\BBP_Ziplama_NO\BBP_Ziplama_NO\obj\Debug\BBP_Ziplama_NO.exe
+C:\Users\akteke\source\repos\BBP_Ziplama_NO\BBP_Ziplama_NO\obj\Debug\BBP_Ziplama_NO.pdb
+C:\Users\akteke\source\repos\BBP_Ziplama_NO - Kopya\BBP_Ziplama_NO\bin\Debug\BBP_Ziplama_NO.exe.config
+C:\Users\akteke\source\repos\BBP_Ziplama_NO - Kopya\BBP_Ziplama_NO\bin\Debug\BBP_Ziplama_NO.exe
+C:\Users\akteke\source\repos\BBP_Ziplama_NO - Kopya\BBP_Ziplama_NO\bin\Debug\BBP_Ziplama_NO.pdb
+C:\Users\akteke\source\repos\BBP_Ziplama_NO - Kopya\BBP_Ziplama_NO\obj\Debug\BBP_Ziplama_NO.csprojAssemblyReference.cache
+C:\Users\akteke\source\repos\BBP_Ziplama_NO - Kopya\BBP_Ziplama_NO\obj\Debug\BBP_Ziplama_NO.Form1.resources
+C:\Users\akteke\source\repos\BBP_Ziplama_NO - Kopya\BBP_Ziplama_NO\obj\Debug\BBP_Ziplama_NO.Properties.Resources.resources
+C:\Users\akteke\source\repos\BBP_Ziplama_NO - Kopya\BBP_Ziplama_NO\obj\Debug\BBP_Ziplama_NO.csproj.GenerateResource.cache
+C:\Users\akteke\source\repos\BBP_Ziplama_NO - Kopya\BBP_Ziplama_NO\obj\Debug\BBP_Ziplama_NO.csproj.CoreCompileInputs.cache
+C:\Users\akteke\source\repos\BBP_Ziplama_NO - Kopya\BBP_Ziplama_NO\obj\Debug\BBP_Ziplama_NO.exe
+C:\Users\akteke\source\repos\BBP_Ziplama_NO - Kopya\BBP_Ziplama_NO\obj\Debug\BBP_Ziplama_NO.pdb
