@@ -1,0 +1,10 @@
+C:\Users\osman\source\repos\GP_Uygulama2_HesapMakinesi\GP_Uygulama2_HesapMakinesi\bin\Debug\GP_Uygulama2_HesapMakinesi.exe.config
+C:\Users\osman\source\repos\GP_Uygulama2_HesapMakinesi\GP_Uygulama2_HesapMakinesi\bin\Debug\GP_Uygulama2_HesapMakinesi.exe
+C:\Users\osman\source\repos\GP_Uygulama2_HesapMakinesi\GP_Uygulama2_HesapMakinesi\bin\Debug\GP_Uygulama2_HesapMakinesi.pdb
+C:\Users\osman\source\repos\GP_Uygulama2_HesapMakinesi\GP_Uygulama2_HesapMakinesi\obj\Debug\GP_Uygulama2_HesapMakinesi.csprojAssemblyReference.cache
+C:\Users\osman\source\repos\GP_Uygulama2_HesapMakinesi\GP_Uygulama2_HesapMakinesi\obj\Debug\GP_Uygulama2_HesapMakinesi.Form1.resources
+C:\Users\osman\source\repos\GP_Uygulama2_HesapMakinesi\GP_Uygulama2_HesapMakinesi\obj\Debug\GP_Uygulama2_HesapMakinesi.Properties.Resources.resources
+C:\Users\osman\source\repos\GP_Uygulama2_HesapMakinesi\GP_Uygulama2_HesapMakinesi\obj\Debug\GP_Uygulama2_HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\osman\source\repos\GP_Uygulama2_HesapMakinesi\GP_Uygulama2_HesapMakinesi\obj\Debug\GP_Uygulama2_HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\GP_Uygulama2_HesapMakinesi\GP_Uygulama2_HesapMakinesi\obj\Debug\GP_Uygulama2_HesapMakinesi.exe
+C:\Users\osman\source\repos\GP_Uygulama2_HesapMakinesi\GP_Uygulama2_HesapMakinesi\obj\Debug\GP_Uygulama2_HesapMakinesi.pdb

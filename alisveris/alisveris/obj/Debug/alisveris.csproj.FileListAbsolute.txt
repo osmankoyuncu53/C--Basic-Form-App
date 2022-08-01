@@ -1,0 +1,10 @@
+C:\Users\osman\Desktop\alisveris\alisveris\bin\Debug\alisveris.exe.config
+C:\Users\osman\Desktop\alisveris\alisveris\bin\Debug\alisveris.exe
+C:\Users\osman\Desktop\alisveris\alisveris\bin\Debug\alisveris.pdb
+C:\Users\osman\Desktop\alisveris\alisveris\obj\Debug\alisveris.csprojAssemblyReference.cache
+C:\Users\osman\Desktop\alisveris\alisveris\obj\Debug\alisveris.Form1.resources
+C:\Users\osman\Desktop\alisveris\alisveris\obj\Debug\alisveris.Properties.Resources.resources
+C:\Users\osman\Desktop\alisveris\alisveris\obj\Debug\alisveris.csproj.GenerateResource.cache
+C:\Users\osman\Desktop\alisveris\alisveris\obj\Debug\alisveris.csproj.CoreCompileInputs.cache
+C:\Users\osman\Desktop\alisveris\alisveris\obj\Debug\alisveris.exe
+C:\Users\osman\Desktop\alisveris\alisveris\obj\Debug\alisveris.pdb

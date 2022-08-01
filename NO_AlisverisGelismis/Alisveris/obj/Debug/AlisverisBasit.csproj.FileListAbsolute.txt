@@ -1,0 +1,23 @@
+C:\Users\akteke\source\repos\AlisverisBasit\Alisveris\bin\Debug\Alisveris.exe.config
+C:\Users\akteke\source\repos\AlisverisBasit\Alisveris\bin\Debug\Alisveris.exe
+C:\Users\akteke\source\repos\AlisverisBasit\Alisveris\bin\Debug\Alisveris.pdb
+C:\Users\akteke\source\repos\AlisverisBasit\Alisveris\obj\Debug\AlisverisBasit.csprojAssemblyReference.cache
+C:\Users\akteke\source\repos\AlisverisBasit\Alisveris\obj\Debug\Alisveris.frm_AnaMenu.resources
+C:\Users\akteke\source\repos\AlisverisBasit\Alisveris\obj\Debug\Alisveris.frm_ParaYukle.resources
+C:\Users\akteke\source\repos\AlisverisBasit\Alisveris\obj\Debug\Alisveris.Properties.Resources.resources
+C:\Users\akteke\source\repos\AlisverisBasit\Alisveris\obj\Debug\AlisverisBasit.csproj.GenerateResource.cache
+C:\Users\akteke\source\repos\AlisverisBasit\Alisveris\obj\Debug\AlisverisBasit.csproj.CoreCompileInputs.cache
+C:\Users\akteke\source\repos\AlisverisBasit\Alisveris\obj\Debug\Alisveris.exe
+C:\Users\akteke\source\repos\AlisverisBasit\Alisveris\obj\Debug\Alisveris.pdb
+C:\Users\akteke\source\repos\AlisverisBasit - Kopya\Alisveris\bin\Debug\Alisveris.exe.config
+C:\Users\akteke\source\repos\AlisverisBasit - Kopya\Alisveris\bin\Debug\Alisveris.exe
+C:\Users\akteke\source\repos\AlisverisBasit - Kopya\Alisveris\bin\Debug\Alisveris.pdb
+C:\Users\akteke\source\repos\AlisverisBasit - Kopya\Alisveris\obj\Debug\AlisverisBasit.csprojAssemblyReference.cache
+C:\Users\akteke\source\repos\AlisverisBasit - Kopya\Alisveris\obj\Debug\Alisveris.frm_AnaMenu.resources
+C:\Users\akteke\source\repos\AlisverisBasit - Kopya\Alisveris\obj\Debug\Alisveris.frm_ParaYukle.resources
+C:\Users\akteke\source\repos\AlisverisBasit - Kopya\Alisveris\obj\Debug\Alisveris.Properties.Resources.resources
+C:\Users\akteke\source\repos\AlisverisBasit - Kopya\Alisveris\obj\Debug\AlisverisBasit.csproj.GenerateResource.cache
+C:\Users\akteke\source\repos\AlisverisBasit - Kopya\Alisveris\obj\Debug\AlisverisBasit.csproj.CoreCompileInputs.cache
+C:\Users\akteke\source\repos\AlisverisBasit - Kopya\Alisveris\obj\Debug\Alisveris.exe
+C:\Users\akteke\source\repos\AlisverisBasit - Kopya\Alisveris\obj\Debug\Alisveris.pdb
+C:\Users\akteke\source\repos\AlisverisBasit - Kopya\Alisveris\obj\Debug\Alisveris.frm_KullaniciGiris.resources
